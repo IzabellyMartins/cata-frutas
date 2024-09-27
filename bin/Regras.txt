@@ -1,6 +1,16 @@
 Funcionamento básico do jogo:
 
-O jogo funciona da seguinte forma: dois competidores entram na floresta, e vence aquele que conseguir primeiro mais da metade das frutas ouro, onde x representa a quantidade de frutas ouro fornecida na inicialização do jogo.
+O jogo funciona da seguinte forma: dois competidores entram na floresta, 
+e vence aquele que conseguir primeiro mais da metade das frutas ouro, 
+onde x representa a quantidade de frutas ouro fornecida na inicialização do jogo.
 
+Frutas e Habilidades:
 
+Cada uma das frutas fornecem poder de força 1 ao competidor!
 
+- Maracujá(fruta ouro): Vai te conceder um ponto de vitória! ganhando quem tiver mais da metade descrita em jogo!
+- Coco (Agilidade): Dobra o número de pontos de movimento de uma rodada.
+- Abacate (Força):  Dobra a força do competidor.
+- Laranja (Antídoto): Anula o efeito do consumo de uma fruta bichada.
+
+- Frutas sem propriedades extras: Acerola, Amora, Goiaba.
