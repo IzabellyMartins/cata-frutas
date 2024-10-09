@@ -4,6 +4,7 @@ dimensões, vista de cima, que representa uma floresta. A floresta será compost
 podem ser pedras, árvores, e grama. Dentro da floresta, teremos competidores e frutas, que fazem 
 parte da dinâmica do jogo.</p>
 
+![Imagem Jogo](https://i.imgur.com/aHnsk2k.png)
 
 ## Funcionamento básico do jogo: 
 <p>O jogo funciona da seguinte forma: dois competidores entram na floresta, e vence aquele que 
